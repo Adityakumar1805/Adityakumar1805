@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **adityakumar182505@gmail.com**
+- 📫 How to reach me **aditya596505@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding, you’ll probably find me geeking out over cool web animations, solving C++ problems for fun, or dreaming about building the next big app! 🚀✨**
 
